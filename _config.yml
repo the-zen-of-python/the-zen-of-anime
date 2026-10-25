@@ -1,0 +1,9 @@
+title: The Zen of Anime
+description: Beyond the story. Into its meaning.
+theme: minima
+markdown: kramdown
+url: ""
+baseurl: "/the-zen-of-anime"
+header_pages:
+  - about.md
+  - storytelling-toolkit.md
